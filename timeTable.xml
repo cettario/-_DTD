@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE timeTable SYSTEM "timetable.dtd">
+<timeTable>
+  <complexes>
+    <complex code="C1">
+      <name>Спортивный комплекс Центральный</name>
+      <address>ул. Ленина, 10</address>
+    </complex>
+    <complex code="C2">
+      <name>Спортивный комплекс Северный</name>
+      <address>ул. Мира, 5</address>
+    </complex>
+  </complexes>
+  <lessons>
+    <lesson no="1" complex="C1">
+      <date>2026-10-15</date>
+      <time>10:00</time>
+    </lesson>
+    <lesson no="2" complex="C2">
+      <date>2026-10-15</date>
+      <time>12:30</time>
+    </lesson>
+    <lesson no="3" complex="C1">
+      <date>2026-10-16</date>
+      <time>11:00</time>
+    </lesson>
+  </lessons>
+</timeTable>
